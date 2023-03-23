@@ -12,6 +12,6 @@
 
 <h2>作業連結區</h2>
 作業一: 
-[prefix](https://youtu.be/h2iPx3AEadE "prefix")
+[prefix](https://youtu.be/h2iPx3AEadE)
 [string](https://youtu.be/3y93_89BKFY)
 <h3>專題連結區</h3>
