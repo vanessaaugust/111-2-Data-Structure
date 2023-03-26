@@ -14,4 +14,7 @@
 作業一: 
 [prefix](https://youtu.be/h2iPx3AEadE)
 [string](https://youtu.be/3y93_89BKFY)
+作業二: 
+[Greedy](https://youtu.be/6d0nFNh7euQ)
+[Tree](https://youtu.be/6d0nFNh7euQ)
 <h3>專題連結區</h3>
