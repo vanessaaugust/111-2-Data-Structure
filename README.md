@@ -11,9 +11,11 @@
 <h1>課程筆記區</h1>
 
 <h2>作業連結區</h2>
+
 - 作業一: 
 [prefix](https://youtu.be/h2iPx3AEadE)
 [string](https://youtu.be/3y93_89BKFY)
+
 - 作業二: 
 [Greedy](https://youtu.be/6d0nFNh7euQ)
 [Tree](https://youtu.be/6d0nFNh7euQ)
