@@ -21,4 +21,7 @@
 - 作業二: 
 [Greedy](https://youtu.be/6d0nFNh7euQ)
 [Tree](https://youtu.be/6d0nFNh7euQ)
+
+- 作業三: 
+[binary number](https://youtu.be/bqZbjbLKxcw)
 <h3>專題連結區</h3>
