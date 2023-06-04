@@ -11,7 +11,7 @@
 - 上課時間: 禮拜一 2:20-5:20
 
 <h1>Leetcode</h1>
-[leetcode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xc2cvx26)
+ [leetcode 75](https://leetcode.com/study-plan/leetcode-75/?progress=xc2cvx26)
 
 <h2>作業連結區</h2>
 
@@ -42,4 +42,4 @@
 
 [stack&heap](https://youtu.be/SNGb4zLsQE0)
 <h3>專題連結區</h3>
-[期末demo](https://youtu.be/geme8vqtmh8)
+ [期末demo](https://youtu.be/geme8vqtmh8)
